@@ -11,6 +11,6 @@ Anita Czerniak, <a href="https://github.com/aciaz">Gitlink</a> </br>
 
 
 Przydatne linki:
-https://github.com/AgaMiko/xeno-canto-download
-https://github.com/AgaMiko/Bird-recognition-review
-https://github.com/ntivirikin/xeno-canto-py
+https://github.com/AgaMiko/xeno-canto-download </br>
+https://github.com/AgaMiko/Bird-recognition-review </br>
+https://github.com/ntivirikin/xeno-canto-py </br>
