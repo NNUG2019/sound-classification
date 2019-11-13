@@ -9,7 +9,7 @@ Tomasz Krupiński, <a href="https://github.com/thomkru">Gitlink</a> </br>
 Klaudia Juszczak, <a href="https://github.com/KlaudiaJuszczak">Gitlink</a> </br>
 Anita Czerniak, <a href="https://github.com/aciaz">Gitlink</a> </br>
 
-<b><font color="red"><</font>TO DO LIST<font color="red">></font></b> </br>
+<b>TO DO LIST</b> </br>
 <ul>
   <li>so</li>
   <li>m</li>
