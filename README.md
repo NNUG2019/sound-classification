@@ -10,7 +10,7 @@ Klaudia Juszczak, <a href="https://github.com/KlaudiaJuszczak">Gitlink</a> </br>
 Anita Czerniak, <a href="https://github.com/aciaz">Gitlink</a> </br>
 
 
-Przydatne linki:
+Przydatne linki: </br>
 https://github.com/AgaMiko/xeno-canto-download </br>
 https://github.com/AgaMiko/Bird-recognition-review </br>
 https://github.com/ntivirikin/xeno-canto-py </br>
