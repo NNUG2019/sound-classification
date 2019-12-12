@@ -31,6 +31,11 @@ MANIFEST
 *.manifest
 *.spec
 
+#sounds/image of birds
+*.wav
+*.png
+*.jpeg
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
@@ -102,3 +107,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+get-pip.py
+
+ptaki/
+
+.vscode/settings.json
