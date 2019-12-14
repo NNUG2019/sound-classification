@@ -115,3 +115,5 @@ ptaki/
 .vscode/settings.json
 
 imageptaki/
+
+audioTOimage.py
