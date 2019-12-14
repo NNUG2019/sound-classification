@@ -17,7 +17,7 @@ freqs = [None]*len(datatest)
 times = [None]*len(datatest)
 Sx    = [None]*len(datatest)
 
-for i in range(1, len(datatest)):
+for i in range(len(datatest)):
     rate[i], audio[i] = wavfile.read(datatest[i])
     freqs[i], times[i], Sx[i] = signal.spectrogram(audio[i], fs=rate[i], window='hanning',
                                       nperseg=1024, noverlap=M - 100,

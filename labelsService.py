@@ -7,5 +7,9 @@ data = pd.read_csv("./ptaki/train/ff1010bird_metadata_2018.csv")
 df = DataFrame(data, columns = ['itemid','hasbird'])
 df.sort_values(by=['itemid'], inplace=True)
 test=df.loc[:,"hasbird"]
+test2=df.loc[:, "itemid"]
+items = list(test2)
 labels = list(test)
-#print((labels)[1:10])
+#print((items)[0:10])
+#print((labels)[0:10])
+#print(len(labels))
