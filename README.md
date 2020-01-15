@@ -1,4 +1,5 @@
 # sound-classification
+# Ostateczny kod w branch: develop !!!
 <b>Group:</b> <i>4</i> </br>
 <b>Topic:</b> <i>Rozpoznawanie dzwięków ptaka/nie ptaka</i> </br>
 
